@@ -1,0 +1,1 @@
+web: java -cp target/classes:target/dependency/* org.Kabinna.org.Kabinna.NBA_Logs.heroku.Main
